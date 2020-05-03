@@ -38,6 +38,7 @@ The code, including the graphical user interface is developed and maintained by 
    :maxdepth: 2
 
    quickinstall
+   releasenotes/index
    Theory
    usersguide/index
    License
