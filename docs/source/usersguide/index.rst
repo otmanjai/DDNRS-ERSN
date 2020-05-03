@@ -16,4 +16,5 @@ essential aspects of using DDNRST-ERSN to perform nuclear reactor simulations.
     basics
     materials
     geometry
+    depletion
     processing
