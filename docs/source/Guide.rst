@@ -1,4 +1,5 @@
-# DDNRS-ERSN
+DDNRS-ERSN
+=============
 
 An Open Nuclear Reactor Simulator and Reactor Core Analysis Tool based on the Version5 of the reactor physics codes DRAGON-5 &amp; DONJON-5 developed at École Polytechnique de Montréal.
 DRAGON & DONJON Reactor Simulator (ADPRES) is an open nuclear reactor simulator and reactor core analysis tool that solves reactor equations for one, two or three dimensional geometries.
@@ -31,7 +32,7 @@ This directory contains the Nuclear Data.
 This directory contains the python files for Graphical User Interface (GUI)
 
 
-# Instructions for configuring DDNRS-ERSN on UNIX systems
+Instructions for configuring DDNRS-ERSN on UNIX systems
 =============
 
 This quick install guide outlines the basic steps needed to install DDNRS-ERSN your computer.
