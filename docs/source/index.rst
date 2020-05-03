@@ -37,7 +37,7 @@ The code, including the graphical user interface is developed and maintained by 
 .. toctree::
    :maxdepth: 2
 
-   Installation
+   quickinstall
    Theory
    Guide
    License
