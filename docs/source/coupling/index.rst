@@ -11,4 +11,3 @@ Coupling and Multi-physics
     introduction
     paraview
     comsol
-    solidworks
