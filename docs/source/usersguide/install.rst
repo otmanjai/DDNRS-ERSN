@@ -18,6 +18,8 @@ Prerequisites
 .. admonition:: Required
    :class: error
 
+    * A Fortran compiler such as gfortran_
+    
     * A C/C++ compiler such as gcc_
 
       If you are using a Debian-based distribution, you can install the g++ compiler using the
@@ -39,3 +41,4 @@ Prerequisites
 
 .. _gcc: https://gcc.gnu.org/
 .. _CMake: http://www.cmake.org
+.. _gfortran: https://gcc.gnu.org/wiki/GFortranBinaries
