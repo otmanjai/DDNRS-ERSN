@@ -5,4 +5,5 @@ Release Notes
 .. toctree::
   :maxdepth: 1
 
-  new.html
+.. raw:: html
+  :file: filename.html
