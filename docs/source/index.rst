@@ -39,7 +39,7 @@ The code, including the graphical user interface is developed and maintained by 
 
    quickinstall
    Theory
-   Guide
+   usersguide/index
    License
    Help
    Publications
