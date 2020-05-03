@@ -33,3 +33,9 @@ Prerequisites
       command::
 
           sudo apt install cmake
+
+
+
+
+.. _gcc: https://gcc.gnu.org/
+.. _CMake: http://www.cmake.org
