@@ -30,9 +30,9 @@ The code, including the graphical user interface is developed and maintained by 
 
 .. only:: html
 
-   --------
-   Contents
-   --------
+   ---------
+   Contents:
+   ---------
 
 .. toctree::
    :maxdepth: 2
