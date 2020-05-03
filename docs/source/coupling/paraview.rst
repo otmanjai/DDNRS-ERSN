@@ -1,5 +1,5 @@
 .. _coupling_paraview:
 
 =======================================================
- Paraview Toolkit for DRAGON & DONJON output Processing
+ Paraview Toolkit for DRAGON5/DONJON5 output Processing
 =======================================================
