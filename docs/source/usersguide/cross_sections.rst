@@ -11,8 +11,7 @@ each nuclide or material in your problem. DDNRST-ERSN can be run in multi-group 
 Using Pregenerated Libraries
 ----------------------------
 
-Various evaluated nuclear data libraries have been processed into the XMAS or SHEM binary formats required by **DRAGON5** code 
-and can be found at https://www.polymtl.ca/merlin/libraries.htm.
+Various evaluated nuclear data libraries have been processed into the XMAS or SHEM binary formats required by **DRAGON5** code and can be found at https://www.polymtl.ca/merlin/libraries.htm.
 
 .. _create_xs_library:
 
