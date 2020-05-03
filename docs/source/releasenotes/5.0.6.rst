@@ -10,9 +10,158 @@ Summary
 
 .. raw:: html
 
-    <embed>
-    <html>
-        <head>Hello!</head>
-        <body>Hello, world!</body>
-    </html>
-    </embed>
+<embed>
+<html>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#990000" alink="#FF0000" data-gr-c-s-loaded="true">
+The following improvements have been added between Version 5.0.5 and 5.0.6:
+<p>
+<table border="1">
+<tbody><tr>
+<th>issue000151</th> <td>Correct a printing format in module <code>FLPOW:</code></td>
+</tr>
+<tr>
+<th>issue000152</th> <td>Implement PMAXS file interpolation with module <code>PCR:</code></td>
+</tr>
+<tr>
+<th>issue000153</th> <td>Correct a segmentation fault in 3D EXCELP cases with NXT tracking</td>
+</tr>
+<tr>
+<th>issue000154</th> <td>Improve and simplify programmation of module <code>PLQ:</code></td>
+</tr>
+<tr>
+<th>issue000155</th> <td>Correct a case where some self-shielded isotopes are not used in module <code>USS:</code></td>
+</tr>
+<tr>
+<th>issue000156</th> <td>Correct a memory leak related to <code>ISOTOPESLIST</code> list in modules <code>NCR:</code> and <code>PCR:</code></td>
+</tr>
+<tr>
+<th>issue000157</th> <td>Implement GMRES acceleration for fixed source eigenvalue problems in module <code>GPTFLU:</code></td>
+</tr>
+<tr>
+<th>issue000158</th> <td>Implement the She-Liu-Shi double heterogeneity model in Dragon</td>
+</tr>
+<tr>
+<th>issue000159</th> <td>Correct a series of bugs in modules <code>G2S:</code>, <code>SALT:</code> and <code>FLU:</code>
+<ul>
+<li> Correct a sub-geometry bug in module <code>G2S:</code>
+</li><li> Correct a bug related to <code>SYME</code> boundary condition in module <code>G2S:</code>
+</li><li> Implement <code>SY1D</code> axial symmetry in module <code>SALT:</code>
+</li><li> Adjust an epsilon in module <code>SALT:</code>
+</li><li> Remove an <code>XABORT</code> in module <code>FLU:</code>
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000160</th> <td>Correct a series of bugs in modules <code>GEO:</code> and <code>NXT:</code>
+<ul> 
+<li> Correct a regression from Dragon 3.06 in module <code>GEO:</code>
+</li><li> Modify geometric cutoff in module <code>NXT:</code>
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000161</th> <td>Implement the quasi-Newton BFGS method and add new line search module <code>LNSR:</code>
+<ul> 
+<li> Add <code>HREA</code> keyword in module <code>ERROR:</code>
+</li><li> Add <code>NALBP</code> in <code>DEL-STATE</code> vector in <code>L_OPTIMIZE</code> object
+</li><li> Implement the limited memory BFGS method in module <code>LNSR:</code>
+</li><li> Implement the Armijo line search
+</li><li> Add option <code>OUT-RESTART</code> in module <code>LNSR:</code>
+</li><li> Improve the objective function in non-fundamental mode cases
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000162</th> <td>Implement radiative capture energy production with WIMS libraries</td>
+</tr>
+<tr>
+<th>issue000163</th> <td>Implement the Windows version of <code>getusage()</code> function</td>
+</tr>
+<tr>
+<th>issue000164</th> <td>Implement cross section weighting with spherical harmonic moments of the flux
+<ul> 
+<li> Implement P1 APOLLO3 weighting formula as <code>PNW_SP</code> option
+</li><li> Generalize the method to higher spherical harmonic orders
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000165</th> <td>Implement capabilities in modules <code>TLM:</code> and <code>SALT:</code>
+<ul> 
+<li> Implement mixture-dependent colors in module <code>TLM:</code>
+</li><li> Allow tracking of voided mixtures in module <code>SALT:</code>
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000166</th> <td>Implement a non-fundamental mode DB2 leakage model in module <code>FLU:</code></td>
+</tr>
+<tr>
+<th>issue000167</th> <td>Add <code>NFTOT</code> to <code>GFF</code> info saved by module <code>COMPO:</code></td>
+</tr>
+<tr>
+<th>issue000168</th> <td>Correct a flux normalization problem in module <code>COMPO:</code></td>
+</tr>
+<tr>
+<th>issue000169</th> <td>Suppress gfortran 6.1 and 8.2 warnings</td>
+</tr>
+<tr>
+<th>issue000170</th> <td>Correct a flux reconstruction bug (Raviart-Thomas method) in module <code>VAL:</code></td>
+</tr>
+<tr>
+<th>issue000171</th> <td>Correct a zero-length tracking bug in module <code>SALT:</code></td>
+</tr>
+<tr>
+<th>issue000172</th> <td>Implement the detector integrated response evaluation module <code>IDET:</code></td>
+</tr>
+<tr>
+<th>issue000173</th> <td>Correct a boundary condition bug in module <code>GEO:</code></td>
+</tr>
+<tr>
+<th>issue000174</th> <td>Implement the fixed-point SPH iteration in module <code>FPSPH:</code>
+<ul> 
+<li> Add Newton method in module <code>FPSPH:</code>
+</li><li> Implement limits on SPH factors
+</li><li> Allow line search with Newton iteration
+</li><li> Correct a memory leak in module <code>DELTA:</code> and add keyword <code>LEAK</code> in module <code>EDI:</code>
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000175</th> <td>Implement support of physical albedos in calculation of SPH factors</td>
+</tr>
+<tr>
+<th>issue000176</th> <td>Correct a bug in a makefile</td>
+</tr>
+<tr>
+<th>issue000177</th> <td>Correct the <code>rep900</code> non-regression test</td>
+</tr>
+<tr>
+<th>issue000178</th> <td>Implement support for multigroup boundary currents with module <code>MCCGT:</code></td>
+</tr>
+<tr>
+<th>issue000179</th> <td>Correct a bug related to <code>NTOT1</code> initialization in module <code>MACINI:</code></td>
+</tr>
+<tr>
+<th>issue000180</th> <td>Implement merge of cluster rings in module <code>G2S:</code></td>
+</tr>
+<tr>
+<th>issue000181</th> <td>Implement affine transformation and 2D discontinuous Galarkin approximations in module <code>SNT:</code>
+<ul> 
+<li> Commit the TRIVAC5 user guide
+</li><li> Change <code>KEYFLX</code> definition in Raviart-Thomas-Schneider finite element approximations
+</li></ul>
+</td>
+</tr>
+<tr>
+<th>issue000182</th> <td>Correct compilation warnings with gfortran and compilation errors with AIX OS</td>
+</tr>
+<tr>
+<th>issue000183</th> <td>Implement TIBERE model (aka option <code>HETE</code>) with the method of characteristics (MOC)</td>
+</tr>
+
+</tbody></table>
+</p>
+</body>
+</html>
+</embed>
