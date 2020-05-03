@@ -3,11 +3,6 @@
 What's New in 5.0.6
 ====================
  
-
--------
-Summary
--------
-
 .. raw:: html
 
    <embed>
