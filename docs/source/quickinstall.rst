@@ -24,7 +24,7 @@ installed directly from the package manager.
 
 .. code-block:: sh
 
-    sudo apt install gfortran gcc ++ cmake
+    sudo apt install gfortran g++ cmake
 
 After the packages have been installed, follow the instructions below for
 building and installing DDNRST-ERSN from source.
