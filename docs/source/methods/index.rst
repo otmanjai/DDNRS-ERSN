@@ -1,13 +1,21 @@
 .. _methods:
 
-=========================================
-Applied Reactor Physics: Theory & Methods
-=========================================
+======================
+Theory and Methodology
+======================
 
 .. toctree::
     :numbered:
     :maxdepth: 3
 
-    PyNJOY and Cross-section Processing
-    Lattice Calculations
-    Core Analysis
+    introduction
+    geometry
+    cross_sections
+    random_numbers
+    neutron_physics
+    photon_physics
+    tallies
+    eigenvalue
+    parallelization
+    cmfd
+    energy_deposition
