@@ -10,7 +10,7 @@ The code, including the graphical user interface is developed and maintained by 
 
 
 
-.. admonition:: Recommended publication for citing
+.. admonition:: Recommended publications for citing
    :class: tip
 
    O. Jaï, O. El Hajjaji, A. Hébert, J. Tajmouati, T. El Bardouni, and A. Didi, "`Validation Study 
