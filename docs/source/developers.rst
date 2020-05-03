@@ -2,4 +2,4 @@ Development Team
 ================
 
 - `Otman JAI <https://github.com/otmanjai>`_
-- `Otman EL HAJJAJI`_
+- Otman EL HAJJAJI_
