@@ -45,8 +45,8 @@ directly from Merlin_ page or, you can use **wget** to obtain the source code, r
      
      .. _compile_linux:
 
-Compiling on Linux and Mac OS X
--------------------------------
+Compiling Version5 on Linux and Mac OS X
+----------------------------------------
 
 To compile Version5 on Linux or Max OS X, run the following commands from within
 the root directory of the source code:
