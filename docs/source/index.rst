@@ -18,7 +18,7 @@ The code, including the graphical user interface is developed and maintained by 
   Transport Code DRAGON5 Based on DRAGLIB Libraries by TRX and BAPL 
   Critical Experiments of Light Water Reactors for Neutronic Analysis 
   of TRIGA MARK-II Research Reactor. Moscow University Physics Bulletin. 
-  <https://doi.org/10.3103/s002713491706011x>`
+  <https://doi.org/10.3103/s002713491706011x>`_"
 
 .. only:: html
 
