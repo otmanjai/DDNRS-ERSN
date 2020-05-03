@@ -9,6 +9,6 @@ Applied Reactor Physics: Theory & Methods
     :maxdepth: 3
 
     introduction
-    PyNJOY and Cross-section Processing
-    Lattice Calculations
-    Core Analysis
+    pynjoy
+    lattice
+    core
