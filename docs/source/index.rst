@@ -39,7 +39,7 @@ The code, including the graphical user interface is developed and maintained by 
 
    quickinstall
    releasenotes/index
-   Theory
+   methods/index
    usersguide/index
    License
    Help
