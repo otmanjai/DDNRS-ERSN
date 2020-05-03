@@ -10,8 +10,8 @@ Summary
 
 .. raw:: html
 
-<embed>
- <html>
+   <embed>
+   <html>
    The following improvements have been added between Version 5.0.5 and 5.0.6:
- </html>
-</embed>
+   </html>
+   </embed>
