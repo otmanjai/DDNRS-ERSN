@@ -5,5 +5,4 @@ Release Notes
 .. toctree::
   :maxdepth: 1
 
-.. raw:: html
-  src="_static/new.html"
+  5.0.6
