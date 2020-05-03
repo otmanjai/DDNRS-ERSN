@@ -6,9 +6,9 @@ Installation and Configuration
 
 .. _install_source:
 
-----------------------
-Installing from Source
-----------------------
+-------------------------------
+Installing Version5 from Source
+-------------------------------
 
 .. _prerequisites:
 
@@ -36,9 +36,14 @@ Prerequisites
 
           sudo apt install cmake
 
+Obtaining the Source
+--------------------
+All Version5 source code is hosted on Merlin_ page. You can download the source code
+directly from Merlin_ page or, you can use **wget** to obtain the source code, run the following command::
 
-
+     wget http://www.polymtl.ca/merlin/downloads/version5_v5.0.6.tgz
 
 .. _gcc: https://gcc.gnu.org/
 .. _CMake: http://www.cmake.org
 .. _gfortran: https://gcc.gnu.org/wiki/GFortranBinaries
+.. _Merlin: https://www.polymtl.ca/merlin/version5.htm
