@@ -6,4 +6,4 @@ Release Notes
   :maxdepth: 1
 
 .. raw:: html
-  :file: new.html
+  src="_static/new.html"
