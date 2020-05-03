@@ -41,6 +41,7 @@ The code, including the graphical user interface is developed and maintained by 
    releasenotes/index
    methods/index
    usersguide/index
+   coupling/index
    License
    Help
    Publications
