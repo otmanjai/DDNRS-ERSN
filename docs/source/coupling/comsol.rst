@@ -1,5 +1,5 @@
 .. _coupling_comsol:
 
 ==============================================================================
-Coupling Dragon5/Donjon5 and Comsol for Nuclear Reactor Multi-physics Analysis
+Coupling DRAGON5/DONJON5 and COMSOL for Nuclear Reactor Multi-physics Analysis
 ==============================================================================
