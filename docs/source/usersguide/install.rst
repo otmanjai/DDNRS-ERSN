@@ -42,6 +42,27 @@ All Version5 source code is hosted on Merlin_ page. You can download the source 
 directly from Merlin_ page or, you can use **wget** to obtain the source code, run the following command::
 
      wget http://www.polymtl.ca/merlin/downloads/version5_v5.0.6.tgz
+     
+     .. _compile_linux:
+
+Compiling on Linux and Mac OS X
+-------------------------------
+
+To compile Version5 on Linux or Max OS X, run the following commands from within
+the root directory of the source code:
+
+.. code-block:: sh
+
+    tar xvfz version5_v5.0.6.tgz.tgz
+    cd Version5_beta_ev1803
+    cd Utilib && ../script/install
+    cd ../Ganlib && ../script/install
+    cd ../Trivac && ../script/install
+    cd ../Dragon && ../script/install
+    cd ../Donjon && ../script/install
+     
+     
+     
 
 .. _gcc: https://gcc.gnu.org/
 .. _CMake: http://www.cmake.org
