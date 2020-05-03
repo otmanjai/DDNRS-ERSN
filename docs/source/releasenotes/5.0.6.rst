@@ -8,9 +8,11 @@ What's New in 5.0.6
 Summary
 -------
 
-.. code-block:: html
+.. html ::
 
+    <embed>
     <html>
         <head>Hello!</head>
         <body>Hello, world!</body>
     </html>
+    </embed>
