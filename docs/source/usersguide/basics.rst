@@ -1,7 +1,7 @@
 .. _usersguide_basics:
 
 ======================
-Basics of Using OpenMC
+Basics of Using DDNRST-ERSN
 ======================
 
 ----------------
