@@ -1,21 +1,13 @@
 .. _methods:
 
-======================
-Theory and Methodology
-======================
+=========================================
+Applied Reactor Physics: Theory & Methods
+=========================================
 
 .. toctree::
-    :numbered:
     :maxdepth: 3
 
     introduction
-    geometry
-    cross_sections
-    random_numbers
-    neutron_physics
-    photon_physics
-    tallies
-    eigenvalue
-    parallelization
-    cmfd
-    energy_deposition
+    PyNJOY and Cross-section Processing
+    Lattice Calculations
+    Core Analysis
