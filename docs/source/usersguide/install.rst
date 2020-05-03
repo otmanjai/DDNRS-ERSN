@@ -61,7 +61,7 @@ the root directory of the source code:
     cd ../Dragon && ../script/install
     cd ../Donjon && ../script/install
      
-This will build an executable file and install it in a default directory (for example, /Version5_beta_ev1803/Dragon/bin/Linux_x86_64 is the default directory for **Dragon**).     
+This will build an executable file and install it in a default directory (for example, */Version5_beta_ev1803/Dragon/bin/Linux_x86_64* is the default directory for **Dragon**).     
      
 
 .. _gcc: https://gcc.gnu.org/
