@@ -14,5 +14,10 @@ Summary
    <html>
     <body text="#000000" bgcolor="#FFFFFF" link="#0000FF" vlink="#990000" alink="#FF0000" data-gr-c-s-loaded="true">
    The following improvements have been added between Version 5.0.5 and 5.0.6:
+   <p>
+   <table border="1">
+   <tbody><tr>
+   <th>issue000151</th> <td>Correct a printing format in module <code>FLPOW:</code></td>
+   </tr>
    </body></html>
    </embed>
