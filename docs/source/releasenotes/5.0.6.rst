@@ -8,4 +8,4 @@ What's New in 5.0.6
 Summary
 -------
 .. raw:: htm
-   src="_static/new.html"
+   :file: new.html
