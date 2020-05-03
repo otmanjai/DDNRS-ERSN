@@ -4,7 +4,7 @@
 License Agreement
 =================
 
-This software is free software; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version. For the complete text of the license see the GPL-web page.
+Copyright © 2019-2020 ERSN-Tétouan and DDNRST-ERSN contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
