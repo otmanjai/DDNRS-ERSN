@@ -9,7 +9,7 @@ your computer. For more detailed instructions on configuring and installing
 DDNRST-ERSN, see :ref:`usersguide_install` in the User's Manual.
 
 ----------------------------------------
-Installing on Linux with install.sh file
+Installing on Linux with *install.sh* file
 ----------------------------------------
 .. code-block:: sh
 
