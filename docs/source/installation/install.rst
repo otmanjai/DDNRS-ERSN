@@ -1,8 +1,5 @@
 .. _installation_install:
 
-==============================
-Installation and Configuration
-==============================
 
 .. _install_source:
 
