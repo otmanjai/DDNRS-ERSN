@@ -4,8 +4,8 @@
 User's Guide
 ============
 
-Welcome to the DDNRS-ERSN User's Guide!  This tutorial will guide you through the
-essential aspects of using DDNRS-ERSN to perform nuclear reactor simulations.
+Welcome to the DDNRST-ERSN User's Guide!  This tutorial will guide you through the
+essential aspects of using DDNRST-ERSN to perform nuclear reactor simulations.
 
 .. toctree::
     :numbered:
