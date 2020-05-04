@@ -1,4 +1,4 @@
-.. _usersguide_install:
+.. _installation_install:
 
 ==============================
 Installation and Configuration
