@@ -35,7 +35,7 @@ Prerequisites
 
 Obtaining the Source
 --------------------
-All Version5 source code is hosted on Merlin_ page. You can download the source code
+All Version5 source code is hosted on Merlin_. You can download the source code
 directly from Merlin_ page or, you can use **wget** to obtain the source code, run the following command::
 
      wget http://www.polymtl.ca/merlin/downloads/version5_v5.0.6.tgz
