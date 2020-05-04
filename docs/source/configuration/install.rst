@@ -1,4 +1,4 @@
-.. _installation_install:
+.. _configuration_install:
 
 
 .. _install_source:

@@ -1,4 +1,4 @@
-.. _installation:
+.. _configuration:
 
 ==============================
 Installation and Configuration
@@ -13,4 +13,4 @@ DDNRS-ERSN, see :ref:`installation_install`.
     :maxdepth: 1
 
     install
-	cross_sections
+	libraries
