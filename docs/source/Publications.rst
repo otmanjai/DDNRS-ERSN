@@ -4,9 +4,6 @@
 Publications
 ============
 
----------
-Overviews
----------
 
 - O. Jaï, O. El Hajjaji, A. Hébert, J. Tajmouati, T. El Bardouni, and A. Didi, "`Validation Study 
   of the Reactor Physics Lattice Transport Code DRAGON5 Based on DRAGLIB Libraries by TRX and BAPL 
@@ -22,6 +19,3 @@ Overviews
   Uranium SLOWPOKE-2 Research Reactor Using DRAGON-5 and DONJON-5 Codes System <https://doi.org/10.3103/S002713491906016X>`_," 
   *Moscow Univ. Phys. Bull.*, vol. **74**, no. 6, pp. 710–716, (2019).
 
---------------------------
-Coupling and Multi-physics
---------------------------
