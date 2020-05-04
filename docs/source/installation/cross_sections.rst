@@ -2,9 +2,9 @@
 
 .. _install_libraries:
 
----------------------------
+===========================
 Cross Section Configuration
----------------------------
+===========================
 
 In order to run a simulation with DDNRS-ERSN, you will need cross section data for
 each nuclide or material in your problem. DDNRS-ERSN can be run in multi-group mode using variuos nuclear data formats such as: 
