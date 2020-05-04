@@ -13,3 +13,4 @@ DDNRS-ERSN, see :ref:`usersguide_install` in the User's Manual.
     :maxdepth: 1
 
     install
+	cross_sections

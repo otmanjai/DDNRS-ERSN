@@ -1,4 +1,4 @@
-.. _usersguide_cross_sections:
+.. _installation_cross_sections:
 
 ===========================
 Cross Section Configuration

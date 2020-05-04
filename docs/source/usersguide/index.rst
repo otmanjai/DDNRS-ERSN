@@ -11,7 +11,6 @@ essential aspects of using DDNRS-ERSN to perform nuclear reactor simulations.
     :numbered:
     :maxdepth: 1
 
-    cross_sections
     basics
     materials
     geometry

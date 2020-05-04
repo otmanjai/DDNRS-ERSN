@@ -60,16 +60,6 @@ the root directory of the source code:
      
 This will build an executable file and install it in a default directory (for example, */Version5_beta_ev1803/Dragon/bin/Linux_x86_64* is the default directory for **Dragon**).     
      
-.. _install_libraries:
-
-----------------------------------------
-Microscopic Cross-Sections Configuration
-----------------------------------------
-
-.. _prerequisites_libraries:
-
-Prerequisites
--------------
 
 
 
