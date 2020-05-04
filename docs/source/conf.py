@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = u'DDNRST-ERSN'
+project = u'DDNRS-ERSN'
 copyright = u'2020, Otman JAI'
 author = u'Otman JAI'
 
@@ -104,7 +104,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DDNRST-ERSNdoc'
+htmlhelp_basename = 'DDNRS-ERSNdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'DDNRST-ERSN.tex', u'DDNRST-ERSN Documentation',
+    (master_doc, 'DDNRS-ERSN.tex', u'DDNRS-ERSN Documentation',
      u'Otman JAI', 'manual'),
 ]
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'DDNRST-ERSN', u'DDNRST-ERSN Documentation',
+    (master_doc, 'DDNRS-ERSN', u'DDNRS-ERSN Documentation',
      [author], 1)
 ]
 
@@ -152,8 +152,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'DDNRST-ERSN', u'DDNRST-ERSN Documentation',
-     author, 'DDNRST-ERSN', 'One line description of project.',
+    (master_doc, 'DDNRS-ERSN', u'DDNRS-ERSN Documentation',
+     author, 'DDNRS-ERSN', 'One line description of project.',
      'Miscellaneous'),
 ]
 

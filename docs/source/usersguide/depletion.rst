@@ -4,7 +4,7 @@
 Depletion
 =========
 
-DDNRST-ERSN supports coupled depletion, or burnup, calculations through the
+DDNRS-ERSN supports coupled depletion, or burnup, calculations through the
 **EVO:** module. DRAGON5 solves the transport equation to
 obtain transmutation reaction rates, and then the reaction rates are used to
 solve a set of transmutation equations that determine the evolution of nuclide
