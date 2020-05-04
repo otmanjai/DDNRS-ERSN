@@ -13,5 +13,4 @@ DDNRS-ERSN, see :ref:`installation_install`.
     :maxdepth: 1
 
     install
-	cross
 	cross_sections
